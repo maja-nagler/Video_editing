@@ -1,0 +1,8 @@
+name: video_extract_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ffmpeg
+  - moviepy
+  - pillow
